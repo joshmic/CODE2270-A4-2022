@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CODE2270-2022-eg/.idea/CODE2270-2022.iml" filepath="$PROJECT_DIR$/../CODE2270-2022-eg/.idea/CODE2270-2022.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CODE2270-A4-2022.iml" filepath="$PROJECT_DIR$/.idea/CODE2270-A4-2022.iml" />
     </modules>
   </component>
