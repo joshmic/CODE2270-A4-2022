@@ -26,9 +26,8 @@ h2{
 
 .Sheets{
     height: 15vh;
-    width: 80vw;
+    width: 100%;
     background: lightskyblue;
-    margin-left: 10vw;
 }
 
 h3{
