@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<License>
+  <ComputerName>LAPTOP-U9GL1GAD</ComputerName>
+  <Domain>LAPTOP-U9GL1GAD</Domain>
+  <MAC>902E164A6F16</MAC>
+  <Date>20221129</Date>
+  <GeometryGym Plug-in="ggRhinoIFC" Version="2.2.42.0">A:20230531</GeometryGym>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>AtotqImrc27b4KcVqbLcXyBPPiY=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>dkkxyHhU8I9fg6PkePLRz8vHnTWATYv34iPZFJcaUNYncB1pNeW2badozyhyr/U+Cav7JKpQ3R6YU3UbFaOmCnXzx2uHzoNFWNCVeqisLCnIkpG6OsllbD043RMIUGXU62lUg+OPdeYleB8gU9UlAYiC4gcUgO+8nHxQu71Sp7c=</SignatureValue>
+  </Signature>
+</License>
